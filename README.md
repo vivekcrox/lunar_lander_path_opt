@@ -1,7 +1,7 @@
 # 🚀🌘 Lunar Lander Trajectory Optimization
 
-<img src="https://github.com/vivekcrox/lunar_lander_trajectory_optimization_-vivek-/assets/133307528/b1a6cbe5-a277-4c7b-b740-3aafc31bedd6" width="500" alt="lander_img">
-<img src="https://github.com/vivekcrox/lunar_lander_trajectory_optimization_-vivek-/assets/133307528/869a73e2-0722-4fdb-88e3-af5ff099ac71" width="500" alt="lander_img">
+<img src="https://github.com/vivekcrox/lunar_lander_trajectory_optimization_-vivek-/assets/133307528/b1a6cbe5-a277-4c7b-b740-3aafc31bedd6" width="300" alt="lander_img">
+<img src="https://github.com/vivekcrox/lunar_lander_trajectory_optimization_-vivek-/assets/133307528/869a73e2-0722-4fdb-88e3-af5ff099ac71" width="300" alt="lander_img">
 
 ## Implements a reinforcement learning algorithm to train a rocket landing agent using the LunarLander-v2 environment.
 - The code defines the environment, the agent, and the training parameters.
